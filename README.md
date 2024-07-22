@@ -69,11 +69,21 @@ Here are some exercises to enhance the Snake game:
 
 ## License
 
-This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
+This project is licensed under the [Apache 2.0 License](LICENSE). See the `LICENSE` file for details.
 
 ---
 
 Feel free to fork this repository and make improvements. Pull requests are welcome!
-
 ```
-Replace `https://github.com/your-username/retro-snake-game.git` with the actual URL of your GitHub repository. Save this content in a file named `README.md` in the root directory of your project. This README file provides clear instructions for setting up, running, and playing the game, as well as potential exercises to improve it.
+
+### Instructions to Add This README to Your GitHub Repository
+
+1. **Create the README.md File:**
+   - In your project directory, create a new file named `README.md`.
+
+2. **Paste the Content:**
+   - Copy and paste the above content into the `README.md` file.
+
+3. **Save the File:**
+   - Save the file in VS Code by going to `File > Save` or pressing `Cmd+S`.
+
