@@ -1,6 +1,3 @@
-Sure! Here is a sample README file for your Snake game that you can use to display on your GitHub repository:
-
-```markdown
 # Retro Snake Game
 
 This repository contains a classic Snake game implemented in Python using the Turtle graphics library and the `freegames` module.
@@ -79,5 +76,4 @@ This project is licensed under the Apache 2.0 License. See the `LICENSE` file fo
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 
 ```
-
 Replace `https://github.com/your-username/retro-snake-game.git` with the actual URL of your GitHub repository. Save this content in a file named `README.md` in the root directory of your project. This README file provides clear instructions for setting up, running, and playing the game, as well as potential exercises to improve it.
