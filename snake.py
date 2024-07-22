@@ -49,6 +49,7 @@ def move():
 
 
 setup(420, 420, 370, 0)
+bgcolor('black')  # Set the background color to black
 hideturtle()
 tracer(False)
 listen()
