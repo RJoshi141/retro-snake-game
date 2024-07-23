@@ -1,14 +1,34 @@
+```markdown
 # Retro Snake Game
 
-This repository contains a classic Snake game implemented in Python using the Turtle graphics library and the `freegames` module.
+This repository contains a classic Snake game implemented in Python using the Turtle graphics library and the `freegames` module. Below you will find an introduction to the game, gameplay instructions, and a preview of the game in action.
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Exercises](#exercises)
 - [License](#license)
+
+## Introduction
+
+Welcome to the Retro Snake Game! This classic arcade game challenges you to control a snake and eat food while avoiding collisions with the boundaries and yourself.
+
+### Gameplay Preview
+
+**Snake Movement and Eating**
+
+Below is a GIF showing the snake moving and eating the red food:
+
+![Snake Movement and Eating](media/snake-gameplay-1.gif)
+
+**Game Over Scenarios**
+
+Here is a GIF demonstrating what happens when the snake hits the boundary or itself:
+
+![Game Over](media/snake-gameplay-2.gif)
 
 ## Installation
 
@@ -56,7 +76,7 @@ Use the arrow keys to control the snake:
 - `Up Arrow`: Move up
 - `Down Arrow`: Move down
 
-The objective is to eat the food (green square) that appears randomly on the screen. Each time the snake eats the food, it grows in length. The game ends if the snake runs into the walls or itself.
+The objective is to eat the food (red square) that appears randomly on the screen. Each time the snake eats the food, it grows in length. The game ends if the snake runs into the walls or itself.
 
 ## Exercises
 
@@ -75,15 +95,3 @@ This project is licensed under the [Apache 2.0 License](LICENSE). See the `LICEN
 
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 ```
-
-### Instructions to Add This README to Your GitHub Repository
-
-1. **Create the README.md File:**
-   - In your project directory, create a new file named `README.md`.
-
-2. **Paste the Content:**
-   - Copy and paste the above content into the `README.md` file.
-
-3. **Save the File:**
-   - Save the file in VS Code by going to `File > Save` or pressing `Cmd+S`.
-
