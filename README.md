@@ -19,15 +19,15 @@ Welcome to the Retro Snake Game! This classic arcade game challenges you to cont
 
 **Snake Movement and Eating**
 
-Below is a GIF showing the snake moving and eating the red food:
+Below is a GIF showing the snake moving and eating the red food. Adjusted size for better display:
 
-![Snake Movement and Eating](media/snake-gameplay-1.gif)
+<img src="media/snake-gameplay-1.gif" alt="Snake Movement and Eating" width="400"/>
 
 **Game Over Scenarios**
 
 Here is a GIF demonstrating what happens when the snake hits the boundary or itself:
 
-![Game Over](media/snake-gameplay-2.gif)
+<img src="media/snake-gameplay-2.gif" alt="Game Over" width="400"/>
 
 ## Installation
 
