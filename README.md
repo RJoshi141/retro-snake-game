@@ -1,4 +1,3 @@
-```markdown
 # Retro Snake Game
 
 This repository contains a classic Snake game implemented in Python using the Turtle graphics library and the `freegames` module. Below you will find an introduction to the game, gameplay instructions, and a preview of the game in action.
